@@ -22,7 +22,6 @@ let sum = 0;
 // console.log(sum);
 
 /*** WHILE ***/
-
 let i = 0;
 
 // chiedo per 5 volte all’utente di inserire un numero
